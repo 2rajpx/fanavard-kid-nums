@@ -1,6 +1,7 @@
-# Fanavard Kid Nums
+# Fanavard Kid Nums (Hybrid Mobile Development)
 
-The project is based on [**react native**](https://facebook.github.io/react-native/docs/getting-started.html).
+The project is written by [**React Native**](https://facebook.github.io/react-native/docs/getting-started.html), 
+a javascript framework based on [Node.js](https://nodejs.org/en/download/) that generates native apps.
 
 Because the size of the project is more than **300gb** you have to run it by **npm**.
 
@@ -57,3 +58,17 @@ You will see a **red screen**. It's OK!
 3. After notice `React packager ready` press `Reload` button in your emulator
 
 4. Congratulations!
+
+# Libraries
+
++ [React Native](https://facebook.github.io/react-native/docs/getting-started.html)
+
++ [Native Base](http://nativebase.io) : A UI framework for React Native
+
++ [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
+
+# About Me
+
+**Name:** Tooraj Pourisa Khaitibi
+
+**Email:** 2rajpx@gmail.com
