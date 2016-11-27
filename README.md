@@ -8,7 +8,7 @@ Because the size of the project is more than **300gb** you have to run it by **n
 But don't worry, you will not download 300gb! (Dependecies are zipped)
 
 > Unfortunately, Apple only lets me develop for iOS on a Mac.
-Although it was only tested and developed for android, it may works on iOS too.
+Although it was only tested and developed for android, it may works on iOS as well.
 
 # Requirements
 
