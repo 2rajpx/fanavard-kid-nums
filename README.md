@@ -4,6 +4,7 @@ Because the size of the project is more than **300gb** you have to run it by **n
 But don't worry, you will not download 300gb! (Dependecies are zipped)
 > Unfortunately, Apple only lets me develop for iOS on a Mac.
 Although it was only tested and developed for android, it may works on iOS.
+
 # Requirements
 + Android Development Requirements (SDK, AVD, NDK, Haxm, etc)
 + [Node.js](https://nodejs.org/en/download/)
@@ -17,12 +18,14 @@ Although it was only tested and developed for android, it may works on iOS.
 1. `cd fanavard-kid-nums`
 2. `npm install`
 It may take some time, please be patient.
+
 # Configuration
 If you use android sdk `24.0.0`, you don't need any configurations.
 But if your emulator runs based on a different api (like `23.0.0`) go to `/andoroid/app/build.gradle` and change it like bellow:
 + `compileSdkVersion: 23`
 + `buildToolsVersion: 23.0.0`
 + `compile "com.android.support:appcompat-v7:23.0.0"`
+
 # Setup
 Open your android emulator.
 1. `react-native run-android`
