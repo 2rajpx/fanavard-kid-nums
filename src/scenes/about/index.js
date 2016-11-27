@@ -31,9 +31,6 @@ export default class NHTabs extends Component {
           <Text style={{paddingTop: 10}}>
             توسط منوی شناور می توانید بین این دو امکان جابجا شوید یا از برنامه خارج گردید.
           </Text>
-          <Text style={{paddingTop: 10}}>
-            ایمیل: 2rajpx@gmail.com
-          </Text>
         </Content>
       </Container>
     );
