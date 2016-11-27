@@ -1,4 +1,5 @@
 # Fanavard Kid Nums
+The project is based on [**react native**](https://facebook.github.io/react-native/docs/getting-started.html).
 Because the size of the project is more than **300gb** you have to run it by **npm**.
 But don't worry, you will not download 300gb! (Dependecies are zipped)
 > Unfortunately, Apple only lets me develop for iOS on a Mac.
